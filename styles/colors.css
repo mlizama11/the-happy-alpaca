@@ -1,0 +1,39 @@
+:root {
+  --color-primary: #e5ae8c;
+  --color-primary-tint-orange-0: #fdf9f6;
+  --color-primary-tint-orange-1: #f9ebe3;
+  --color-primary-tint-orange-2: #f4dcce;
+  --color-primary-tint-orange-3: #efccb8;
+  --color-primary-tint-orange-4: #e9ba9e;
+  --color-primary-tint-orange-5: #dea787;
+  --color-primary-tint-orange-6: #c69579;
+  --color-primary-tint-orange-7: #aa8068;
+  --color-primary-tint-orange-8: #866552;
+  --color-primary-tint-orange-9: #4e3b30;
+
+  --color-accent: #006fbe;
+  --color-accent-tint-blue-0: #f6fafd;
+  --color-accent-tint-blue-1: #e2eff9;
+  --color-accent-tint-blue-2: #cce4f5;
+  --color-accent-tint-blue-3: #b5d8f0;
+  --color-accent-tint-blue-4: #9bcaeb;
+  --color-accent-tint-blue-5: #7dbae5;
+  --color-accent-tint-blue-6: #5aa7de;
+  --color-accent-tint-blue-7: #2d8fd5;
+  --color-accent-tint-blue-8: #006fbe;
+  --color-accent-tint-blue-9: #004170;
+
+  --color-gray-tint-gray-0: #f9f9fa;
+  --color-gray-tint-gray-1: #eceeef;
+  --color-gray-tint-gray-2: #dee1e3;
+  --color-gray-tint-gray-3: #cfd3d7;
+  --color-gray-tint-gray-4: #bfc5c9;
+  --color-gray-tint-gray-5: #adb4b9;
+  --color-gray-tint-gray-6: #98a1a8;
+  --color-gray-tint-gray-7: #7f8b93;
+  --color-gray-tint-gray-8: #606e79;
+  --color-gray-tint-gray-9: #374047;
+
+  --color-black: #070707;
+  --color-light: #eff8ff;
+}
