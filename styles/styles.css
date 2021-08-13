@@ -580,6 +580,11 @@ input[type="submit"]:active {
 /* MEDIA QUERIES */
 /* ALL SECTIONS */
 @media only screen and (min-width: 600px) {
+  .brand-title {
+    font-size: x-large;
+    padding: 1rem;
+  }
+
   .headline {
     font-size: xx-large;
   }
