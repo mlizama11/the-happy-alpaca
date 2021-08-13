@@ -190,9 +190,10 @@ hr {
 }
 
 .hero-title {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
   font-size: x-large;
   font-weight: 700;
-  margin-bottom: 3rem;
   text-shadow: 2px 2px 4px #000000;
   white-space: nowrap;
 }
