@@ -55,7 +55,7 @@ hr {
 .hero-button,
 .booking-btn {
   display: inline-block;
-  font-size: 0.5rem;
+  font-size: small;
   text-decoration: none;
   width: 180px;
   line-height: 45px;
